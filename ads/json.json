@@ -1,6 +1,6 @@
 {
   "admob": true,
   "horses": false,
-  "cats": true,
+  "cats": false,
   "dogs": true
 }
