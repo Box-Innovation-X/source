@@ -2,5 +2,6 @@
   "admob": true,
   "horses": true,
   "cats": true,
-  "dogs": true
+  "dogs": true,
+  "faith": false
 }
