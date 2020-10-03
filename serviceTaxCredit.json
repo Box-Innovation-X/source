@@ -52,5 +52,71 @@
          "credit":21.1,
          "label":"Crédito - 12 Parcela(21.1%)"
       }
-   ]
+   ],
+   "mercadopago":{
+      "tax":[
+         {
+            "debit":1.99,
+            "label":"Débito (1.99%)"
+         },
+         {
+            "credit":4.09,
+            "label":"Crédito - 2 Parcela(4.09%)"
+         },
+         {
+            "credit":5.41,
+            "label":"Crédito - 3 Parcela(5.41%)"
+         },
+         {
+            "credit":6.70,
+            "label":"Crédito - 4 Parcela(6.70%)"
+         },
+         {
+            "credit":7.96,
+            "label":"Crédito - 5 Parcela(7.96%)"
+         },
+         {
+            "credit":9.2,
+            "label":"Crédito - 6 Parcela(9.20%)"
+         },
+         {
+            "credit":10.41,
+            "label":"Crédito - 7 Parcela(10.41%)"
+         },
+         {
+            "credit":11.61,
+            "label":"Crédito - 8 Parcela(11.61%)"
+         },
+         {
+            "credit":12.78,
+            "label":"Crédito - 9 Parcela(12.78%)"
+         },
+         {
+            "credit":13.92,
+            "label":"Crédito - 10 Parcela(13.92%)"
+         },
+         {
+            "credit":15.05,
+            "label":"Crédito - 11 Parcela(15.05%)"
+         },
+         {
+            "credit":16.15,
+            "label":"Crédito - 12 Parcela(16.15%)"
+         }
+      ],
+      "withdrawal":{
+         "onTime":{
+            "label":"Na hora",
+            "value":5.31
+         },
+         "days14":{
+            "label":"14 dias",
+            "value":4.36
+         },
+         "days30":{
+            "label":"30 dias",
+            "value":3.60
+         }
+      }
+   }
 }
