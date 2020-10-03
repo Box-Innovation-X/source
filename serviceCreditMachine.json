@@ -1,1 +1,12 @@
-[]
+[
+  {
+    key: "sumup",
+    title: "SumUp",
+    icon: 'https://lh3.googleusercontent.com/lyAgwm4OvdrjvcsUqI49EtPQiHWQVAq2Mf6LptoPkhs8sMuMdp2kJUf50ES21wtxCoAY=s180'
+  },
+  {
+    key: "mercadopago",
+    title: "Mercado Pago",
+    icon: 'https://lh3.googleusercontent.com/ECtkV3rjaL6A9u_IdCuBzlC4WCUhs-GnGm1DHLb_nYF2OzE4waFIPQOa155LF3KIUSE=s180'
+  }
+]
