@@ -1,0 +1,67 @@
+[
+  "sumup": 
+  [
+    {
+      debit: 1.9,
+      label: "Débito (1.9%)"
+    },
+    {
+      credit01: 4.6,
+      label: "Crédito - 1 Parcela(4.6%)"
+    },
+    
+    {
+      credit02: 6.1,
+      label: "Crédito - 2 Parcela(6.1%)"
+    },
+    {
+      credit03: 7.6,
+      label: "Crédito - 3 Parcela(7.6%)"
+    },
+    
+    {
+      credit04: 9.1,
+      label: "Crédito - 4 Parcela(9.1%)"
+    },
+    
+    {
+      credit05: 10.6,
+      label: "Crédito - 5 Parcela(10.6%)"
+    },
+  
+    {
+      credit06: 12.1,
+      label: "Crédito - 6 Parcela(12.1%)"
+    },
+    
+    {
+      credit07: 13.6,
+      label: "Crédito - 7 Parcela(13.6%)"
+    },
+    
+    {
+      credit08: 15.1,
+      label: "Crédito - 8 Parcela(15.1%)"
+    },
+
+    {
+      credit09: 16.6,
+      label: "Crédito - 9 Parcela(16.6%)"
+    },
+    
+    {
+      credit10: 18.1,
+      label: "Crédito - 10 Parcela(18.1%)"
+    },
+    
+    {
+      credit11: 19.6,
+      label: "Crédito - 11 Parcela(19.6%)"
+    },
+    
+    {
+      credit12: 21.1,
+      label: "Crédito - 12 Parcela(21.1%)"
+    },
+  ]
+]
