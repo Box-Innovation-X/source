@@ -1,6 +1,6 @@
 {
-   "sumup":[
-      {
+   "sumup":{
+      "tax":[{
          "debit":1.9,
          "label":"Débito (1.9%)"
       },
@@ -51,8 +51,8 @@
       {
          "credit":21.1,
          "label":"Crédito - 12 Parcela(21.1%)"
-      }
-   ],
+      }]
+   },
    "mercadopago":{
       "tax":[
          {
