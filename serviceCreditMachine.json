@@ -28,5 +28,15 @@
       "key":"infinitepay_hipercard",
       "title":"InfinitePay - Hipercard e Hiper",
       "icon":"https://img.ibxk.com.br/2015/12/programas/14621816133247912.png"
+   },
+   {
+      "key":"ifood_30",
+      "title":"Ifood - 30 dias",
+      "icon":"https://revistacapitaleconomico.com.br/wp-content/uploads/2019/03/iFood-ousa-mais-uma-vez-e-faz-a-primeira-entrega-de-comida-com-drone.jpg"
+   },
+   {
+      "key":"ifood_2",
+      "title":"Ifood - 2 dias",
+      "icon":"https://revistacapitaleconomico.com.br/wp-content/uploads/2019/03/iFood-ousa-mais-uma-vez-e-faz-a-primeira-entrega-de-comida-com-drone.jpg"
    }
 ]
