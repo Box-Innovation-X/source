@@ -18,5 +18,10 @@
       "key":"infinitepay_visa_master",
       "title":"InfinitePay - Visa e MasterCard",
       "icon":"https://img1.gratispng.com/20180806/roz/kisspng-visa-mastercard-computer-icons-clip-art-portable-n-visa-va-mastercard-%D9%88%DB%8C%D8%B2%D8%A7-%D9%88-%D9%85%D8%B3%D8%AA%D8%B1%DA%A9%D8%A7%D8%B1%D8%AA-%D9%88-5b6806c0662844.3456528915335441284185.jpg"
-   }
+   },
+   {
+      "key":"infinitepay_elo",
+      "title":"InfinitePay - Elo",
+      "icon":"https://seeklogo.com/images/E/elo-logo-8D71139387-seeklogo.com.jpg"
+   },
 ]
