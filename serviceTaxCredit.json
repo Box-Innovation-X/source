@@ -53,6 +53,62 @@
          "label":"Crédito - 12 Parcela(21.1%)"
       }]
    },
+   "sumup_cheap":{
+      "tax":[
+         {
+            "debit":1.9,
+            "label":"Débito (1.9%)"
+         },
+         {
+            "credit":3.1,
+            "label":"Crédito - 1 Parcela(3.1%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 2 Parcela(3.9%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 3 Parcela(3.9%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 4 Parcela(3.9%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 5 Parcela(3.9%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 6 Parcela(3.9%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 7 Parcela(3.9%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 8 Parcela(3.9%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 9 Parcela(3.9%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 10 Parcela(3.9%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 11 Parcela(3.9%)"
+         },
+         {
+            "credit":3.9,
+            "label":"Crédito - 12 Parcela(3.9%)"
+         }
+      ]
+   },
    "mercadopago":{
       "tax":[
          {
