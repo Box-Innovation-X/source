@@ -109,6 +109,62 @@
          }
       ]
    },
+   "infinitepay_visa_master":{
+      "tax":[
+         {
+            "debit":1.49,
+            "label":"Débito (1.49%)"
+         },
+         {
+            "credit":2.97,
+            "label":"Crédito - 1 Parcela(2.97%)"
+         },
+         {
+            "credit":3.6,
+            "label":"Crédito - 2 Parcela(3.6%)"
+         },
+         {
+            "credit":3.94,
+            "label":"Crédito - 3 Parcela(3.94%)"
+         },
+         {
+            "credit":4.27,
+            "label":"Crédito - 4 Parcela(4.27%)"
+         },
+         {
+            "credit":4.60,
+            "label":"Crédito - 5 Parcela(4.6%)"
+         },
+         {
+            "credit":4.93,
+            "label":"Crédito - 6 Parcela(4.93%)"
+         },
+         {
+            "credit":5.84,
+            "label":"Crédito - 7 Parcela(5.84%)"
+         },
+         {
+            "credit":6.17,
+            "label":"Crédito - 8 Parcela(6.17%)"
+         },
+         {
+            "credit":6.49,
+            "label":"Crédito - 9 Parcela(6.49%)"
+         },
+         {
+            "credit":6.82,
+            "label":"Crédito - 10 Parcela(6.82%)"
+         },
+         {
+            "credit":7.14,
+            "label":"Crédito - 11 Parcela(7.14%)"
+         },
+         {
+            "credit":7.45,
+            "label":"Crédito - 12 Parcela(7.45%)"
+         }
+      ]
+   },
    "mercadopago":{
       "tax":[
          {
