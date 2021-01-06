@@ -273,6 +273,118 @@
          }
       ]
    },
+   "ifood_30":{
+      "tax":[
+         {
+            "debit":1.88,
+            "label":"Débito (1.88%)"
+         },
+         {
+            "credit":2.99,
+            "label":"Crédito - 1 Parcela(2.99%)"
+         },
+         {
+            "credit":4.48,
+            "label":"Crédito - 2 Parcela(4.48%)"
+         },
+         {
+            "credit":5.97,
+            "label":"Crédito - 3 Parcela(5.97%)"
+         },
+         {
+            "credit":7.46,
+            "label":"Crédito - 4 Parcela(7.46%)"
+         },
+         {
+            "credit":8.95,
+            "label":"Crédito - 5 Parcela(8.95%)"
+         },
+         {
+            "credit":10.44,
+            "label":"Crédito - 6 Parcela(10.44%)"
+         },
+         {
+            "credit":11.93,
+            "label":"Crédito - 7 Parcela(11.93%)"
+         },
+         {
+            "credit":13.42,
+            "label":"Crédito - 8 Parcela(13.42%)"
+         },
+         {
+            "credit":14.91,
+            "label":"Crédito - 9 Parcela(14.91%)"
+         },
+         {
+            "credit":16.40,
+            "label":"Crédito - 10 Parcela(16.40%)"
+         },
+         {
+            "credit":17.89,
+            "label":"Crédito - 11 Parcela(17.89%)"
+         },
+         {
+            "credit":19.38,
+            "label":"Crédito - 12 Parcela(19.38%)"
+         }
+      ]
+   },
+   "ifood_2":{
+      "tax":[
+         {
+            "debit":1.88,
+            "label":"Débito (1.88%)"
+         },
+         {
+            "credit":3.99,
+            "label":"Crédito - 1 Parcela(3.99%)"
+         },
+         {
+            "credit":5.48,
+            "label":"Crédito - 2 Parcela(5.48%)"
+         },
+         {
+            "credit":6.97,
+            "label":"Crédito - 3 Parcela(6.97%)"
+         },
+         {
+            "credit":8.46,
+            "label":"Crédito - 4 Parcela(8.46%)"
+         },
+         {
+            "credit":9.95,
+            "label":"Crédito - 5 Parcela(9.95%)"
+         },
+         {
+            "credit":11.44,
+            "label":"Crédito - 6 Parcela(11.44%)"
+         },
+         {
+            "credit":12.93,
+            "label":"Crédito - 7 Parcela(12.93%)"
+         },
+         {
+            "credit":14.42,
+            "label":"Crédito - 8 Parcela(14.42%)"
+         },
+         {
+            "credit":15.91,
+            "label":"Crédito - 9 Parcela(15.91%)"
+         },
+         {
+            "credit":17.40,
+            "label":"Crédito - 10 Parcela(17.40%)"
+         },
+         {
+            "credit":18.89,
+            "label":"Crédito - 11 Parcela(18.89%)"
+         },
+         {
+            "credit":20.38,
+            "label":"Crédito - 12 Parcela(20.38%)"
+         }
+      ]
+   },
    "mercadopago":{
       "tax":[
          {
