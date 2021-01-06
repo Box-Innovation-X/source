@@ -221,6 +221,58 @@
          }
       ]
    },
+   "infinitepay_hipercard":{
+      "tax":[
+         {
+            "credit":3.37,
+            "label":"Crédito - 1 Parcela(3.37%)"
+         },
+         {
+            "credit":4.49,
+            "label":"Crédito - 2 Parcela(4.49%)"
+         },
+         {
+            "credit":4.83,
+            "label":"Crédito - 3 Parcela(4.83%)"
+         },
+         {
+            "credit":5.16,
+            "label":"Crédito - 4 Parcela(5.16%)"
+         },
+         {
+            "credit":5.48,
+            "label":"Crédito - 5 Parcela(5.48%)"
+         },
+         {
+            "credit":5.81,
+            "label":"Crédito - 6 Parcela(5.81%)"
+         },
+         {
+            "credit":6.62,
+            "label":"Crédito - 7 Parcela(6.62%)"
+         },
+         {
+            "credit":6.95,
+            "label":"Crédito - 8 Parcela(6.95%)"
+         },
+         {
+            "credit":7.27,
+            "label":"Crédito - 9 Parcela(7.27%)"
+         },
+         {
+            "credit":7.59,
+            "label":"Crédito - 10 Parcela(7.59%)"
+         },
+         {
+            "credit":7.90,
+            "label":"Crédito - 11 Parcela(7.90%)"
+         },
+         {
+            "credit":8.22,
+            "label":"Crédito - 12 Parcela(8.22%)"
+         }
+      ]
+   },
    "mercadopago":{
       "tax":[
          {
