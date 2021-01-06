@@ -385,6 +385,190 @@
          }
       ]
    },
+   "safrapay_hora":{
+      "tax":[
+         {
+            "debit":1.98,
+            "label":"Débito (1.98%)"
+         },
+         {
+            "credit":2.99,
+            "label":"Crédito - 1 Parcela(2.99%)"
+         },
+         {
+            "credit":8.45,
+            "label":"Crédito - 2 Parcela(8.45%)"
+         },
+         {
+            "credit":10.80,
+            "label":"Crédito - 3 Parcela(10.80%)"
+         },
+         {
+            "credit":10.80,
+            "label":"Crédito - 4 Parcela(10.80%)"
+         },
+         {
+            "credit":11.60,
+            "label":"Crédito - 5 Parcela(11.60%)"
+         },
+         {
+            "credit":13.10,
+            "label":"Crédito - 6 Parcela(13.10%)"
+         },
+         {
+            "credit":14.60,
+            "label":"Crédito - 7 Parcela(14.60%)"
+         },
+         {
+            "credit":16.10,
+            "label":"Crédito - 8 Parcela(16.10%)"
+         },
+         {
+            "credit":17.60,
+            "label":"Crédito - 9 Parcela(17.60%)"
+         },
+         {
+            "credit":17.88,
+            "label":"Crédito - 10 Parcela(17.88%)"
+         },
+         {
+            "credit":17.88,
+            "label":"Crédito - 11 Parcela(17.88%)"
+         },
+         {
+            "credit":17.88,
+            "label":"Crédito - 12 Parcela(17.88%)"
+         }
+      ]
+   },
+   "safrapay_1_dia":{
+      "tax":[
+         {
+            "debit":1.88,
+            "label":"Débito (1.88%)"
+         },
+         {
+            "credit":1.99,
+            "label":"Crédito - 1 Parcela(1.99%)"
+         },
+         {
+            "credit":7.45,
+            "label":"Crédito - 2 Parcela(7.45%)"
+         },
+         {
+            "credit":9.80,
+            "label":"Crédito - 3 Parcela(9.80%)"
+         },
+         {
+            "credit":9.80,
+            "label":"Crédito - 4 Parcela(9.80%)"
+         },
+         {
+            "credit":10.60,
+            "label":"Crédito - 5 Parcela(10.60%)"
+         },
+         {
+            "credit":12.10,
+            "label":"Crédito - 6 Parcela(12.10%)"
+         },
+         {
+            "credit":13.60,
+            "label":"Crédito - 7 Parcela(13.60%)"
+         },
+         {
+            "credit":15.10,
+            "label":"Crédito - 8 Parcela(15.10%)"
+         },
+         {
+            "credit":16.60,
+            "label":"Crédito - 9 Parcela(16.60%)"
+         },
+         {
+            "credit":16.88,
+            "label":"Crédito - 10 Parcela(16.88%)"
+         },
+         {
+            "credit":16.88,
+            "label":"Crédito - 11 Parcela(16.88%)"
+         },
+         {
+            "credit":16.88,
+            "label":"Crédito - 12 Parcela(16.88%)"
+         }
+      ]
+   },
+   "safrapay_30_dia":{
+      "tax":[
+         {
+            "debit":1.88,
+            "label":"Débito (1.88%)"
+         },
+         {
+            "credit":1.89,
+            "label":"Crédito - 1 Parcela(1.89%)"
+         },
+         {
+            "credit":5.96,
+            "label":"Crédito - 2 Parcela(5.96%)"
+         },
+         {
+            "credit":8.94,
+            "label":"Crédito - 3 Parcela(8.94%)"
+         },
+         {
+            "credit":11.92,
+            "label":"Crédito - 4 Parcela(11.92%)"
+         },
+         {
+            "credit":14.90,
+            "label":"Crédito - 5 Parcela(14.90%)"
+         },
+         {
+            "credit":17.88,
+            "label":"Crédito - 6 Parcela(17.88%)"
+         },
+         {
+            "credit":20.86,
+            "label":"Crédito - 7 Parcela(20.86%)"
+         },
+         {
+            "credit":23.84,
+            "label":"Crédito - 8 Parcela(23.84%)"
+         },
+         {
+            "credit":26.82,
+            "label":"Crédito - 9 Parcela(26.82%)"
+         },
+         {
+            "credit":29.80,
+            "label":"Crédito - 10 Parcela(29.80%)"
+         },
+         {
+            "credit":32.78,
+            "label":"Crédito - 11 Parcela(32.78%)"
+         },
+         {
+            "credit":35.76,
+            "label":"Crédito - 12 Parcela(35.76%)"
+         }
+      ]
+   },
+   "safrapay_sem_antec":{
+      "tax":[
+         {
+            "debit":1.88,
+            "label":"Débito (1.88%)"
+         },
+         {
+            "credit":3.05,
+            "label":"Crédito - 1 Parcela(3.05%)"
+         },
+         {
+            "credit":5.45,
+            "label":"Crédito - (2 - 12) Parcela(5.45%)"
+         }
+      ]
+   },
    "mercadopago":{
       "tax":[
          {
