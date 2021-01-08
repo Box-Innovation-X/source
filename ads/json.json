@@ -4,5 +4,9 @@
   "cats": true,
   "dogs": true,
   "faith": true,
-  "isocial": true
+  "isocial": true,
+  "getMoney": {
+    "visible": true,
+    "ads_id": 'ca-app-pub-7142209208321815/9794542467'
+  }
 }
