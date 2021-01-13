@@ -7,7 +7,7 @@
   "isocial": true,
   "getMoney": {
     "visible": true,
-    "adsTest:": true,
+    "adsTest": true,
     "ads_id": "ca-app-pub-7142209208321815/9794542467",
     "ads_id_test": "ca-app-pub-3940256099942544/6300978111"
   }
